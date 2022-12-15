@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rf3PHcu/L7jxjyYSqDbMI4eeRej4uPREMnMDPtKAG4GaBv2/v+n4oSSqjNqSZUGgoY45b58lkO2YAKf6X8wt9A==",
+  "success": true,
+  "projectFilePath": "E:\\VS_projects\\FoodDelivery\\FoodDelivery.Backend\\FoodDelivery.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

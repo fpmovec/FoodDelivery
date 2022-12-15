@@ -1,0 +1,12 @@
+D:\FoodDelivery\FoodDelivery.Backend\bin\Debug\net6.0\FoodDelivery.Backend.deps.json
+D:\FoodDelivery\FoodDelivery.Backend\bin\Debug\net6.0\FoodDelivery.Backend.dll
+D:\FoodDelivery\FoodDelivery.Backend\bin\Debug\net6.0\FoodDelivery.Backend.pdb
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.csproj.AssemblyReference.cache
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.AssemblyInfoInputs.cache
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.AssemblyInfo.cs
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.csproj.CoreCompileInputs.cache
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.dll
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\refint\FoodDelivery.Backend.dll
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.pdb
+D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\ref\FoodDelivery.Backend.dll
