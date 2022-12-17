@@ -6,7 +6,7 @@ namespace FoodDelivery.Backennd.DAL;
 
 public class DatabaseContext : DbContext
 {
-	public DatabaseContext() => Database.EnsureCreated();
+	public DatabaseContext() => Database.EnsureCreatedAsync();
 	public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options) { }
 	public DbSet<UserDto> Users { get; set; }
 
