@@ -2,4 +2,4 @@
 
 using FoodDelivery.View;
 
-new Menu().DisplayMainMenu();
+new Menu().MainMenu();

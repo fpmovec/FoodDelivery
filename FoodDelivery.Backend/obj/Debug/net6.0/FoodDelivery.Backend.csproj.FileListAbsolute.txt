@@ -10,3 +10,15 @@ D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.dll
 D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\refint\FoodDelivery.Backend.dll
 D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.pdb
 D:\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\ref\FoodDelivery.Backend.dll
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\bin\Debug\net6.0\FoodDelivery.Backend.deps.json
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\bin\Debug\net6.0\FoodDelivery.Backend.dll
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\bin\Debug\net6.0\FoodDelivery.Backend.pdb
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.csproj.AssemblyReference.cache
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.AssemblyInfoInputs.cache
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.AssemblyInfo.cs
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.csproj.CoreCompileInputs.cache
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.dll
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\refint\FoodDelivery.Backend.dll
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\FoodDelivery.Backend.pdb
+E:\VS_projects\FoodDelivery\FoodDelivery.Backend\obj\Debug\net6.0\ref\FoodDelivery.Backend.dll

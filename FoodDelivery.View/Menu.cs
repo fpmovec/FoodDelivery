@@ -6,12 +6,12 @@ namespace FoodDelivery.View;
 
 public class Menu
 {
-    private AllUsers _users = new AllUsers();
+    
     private readonly IUsersService _usersService;
     
     public Menu()
     {
-        _usersService = new UsersServices(_users);
+        _usersService = new UsersServices();
     }
     public void MainMenuDispalay()
     {
@@ -32,10 +32,11 @@ public class Menu
 
         while(true)
         {
+            MainMenuDispalay();
             Console.WriteLine("Enter menu number");
             line = Console.ReadLine();
             functionNumber = int.Parse(line);
-            MainMenuDispalay();
+           
             switch (functionNumber)
             {
                 case 1:
